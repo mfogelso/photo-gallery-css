@@ -55,6 +55,9 @@ nav li {
 p {
     font-size: 20px;
 }
+#wrapper {
+    margin: 0 auto;
+}
 /*** Navigation Styles
 **************************/
 #top-link {
